@@ -1,0 +1,8 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/dosdevices/c:","time":"2023-11-23T23:40:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/dosdevices/z:","time":"2023-11-23T23:40:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/Downloads","time":"2023-11-23T23:40:12Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/My Documents","time":"2023-11-23T23:40:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/My Music","time":"2023-11-23T23:40:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/My Pictures","time":"2023-11-23T23:40:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/My Videos","time":"2023-11-23T23:40:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .wine/drive_c/users/runner/Templates","time":"2023-11-23T23:40:25Z"}

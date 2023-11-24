@@ -1,0 +1,15 @@
+{
+  "name": "wined",
+  "version": "1.0.0",
+  "description": "> Warning: Nix support on Replit is still under heavy development and is subject to change.",
+  "main": "wine-init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
